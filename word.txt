@@ -1,0 +1,6 @@
+hello:ohayou
+yes:hai
+no:eeh
+what:nani
+where:doko
+who:dare
